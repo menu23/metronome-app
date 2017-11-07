@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Metronome</string>
 
-    <string name="sound_prompt">Choose sound</string>
+    <string name="sound_prompt">Choose sound:</string>
 
     <string-array name="sound_arrays">
         <item>Silent</item>
