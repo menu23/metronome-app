@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Metronome</string>
+
+    <string name="sound_prompt">Choose sound</string>
+
+    <string-array name="sound_arrays">
+        <item>Silent</item>
+        <item>Click</item>
+        <item>Wood</item>
+        <item>Metal</item>
+    </string-array>
+</resources>
